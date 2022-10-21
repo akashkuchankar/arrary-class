@@ -44,8 +44,14 @@
   </ItemGroup>
   <ItemGroup>
     <Compile Include="Class1.cs" />
+    <Compile Include="Class2.cs" />
+    <Compile Include="dictionary.cs" />
+    <Compile Include="generic.cs" />
+    <Compile Include="hashtable.cs" />
     <Compile Include="Program.cs" />
     <Compile Include="Properties\AssemblyInfo.cs" />
+    <Compile Include="q.cs" />
+    <Compile Include="stack.cs" />
   </ItemGroup>
   <ItemGroup>
     <None Include="App.config" />
